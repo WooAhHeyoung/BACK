@@ -21,5 +21,5 @@
 
   4. 실행
 
-  npm run dev        # fake 모드 (API 키 없이 테스트용 더미 데이터)
+  npm run dev        # fake 모드 (API 키 없이 테스트)
   npm run dev:real   # 실제 Upstage API 호출
